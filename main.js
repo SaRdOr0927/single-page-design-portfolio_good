@@ -1,6 +1,3 @@
-
-const prev = document.querySelector('.prev')
-
 $(document).ready(function(){
     $(".owl-carousel").owlCarousel({
 
